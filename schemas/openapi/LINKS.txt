@@ -1,0 +1,1 @@
+https://github.com/kubernetes/kubernetes/blob/master/api/openapi-spec/swagger.json

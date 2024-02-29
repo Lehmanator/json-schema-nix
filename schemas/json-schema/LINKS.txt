@@ -1,0 +1,147 @@
+https://raw.githubusercontent.com/dahag-ag/keycloak-openapi/main/OpenApiDefinitions/keycloak-19.0.0.json
+https://raw.githubusercontent.com/oss-review-toolkit/ort/main/integrations/schemas/resolutions-schema.json
+https://raw.githubusercontent.com/openrewrite/rewrite/main/rewrite-core/openrewrite.json
+https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
+https://json.schemastore.org/mimetypes.json
+https://json.schemastore.org/sourcemap-v3.json
+https://schemas.wp.org/trunk/theme.json
+https://taskfile.dev/schema.json
+
+# --- schema.org ---
+https://json.schemastore.org/schema-catalog.json
+https://json.schemastore.org/schema-org-action.json
+https://json.schemastore.org/schema-org-contact-point.json
+https://json.schemastore.org/schema-org-place.json
+https://json.schemastore.org/schema-org-thing.json
+
+# --- Browser ---
+https://json.schemastore.org/gpc.json
+https://raw.githubusercontent.com/GoogleChrome/related-website-sets/main/SCHEMA.json
+https://json.schemastore.org/chrome-manifest.json
+https://json.schemastore.org/chrome-extension-locales-messages.json
+https://json.schemastore.org/web-manifest-combined.json
+https://json.schemastore.org/web-types.json
+https://json.schemastore.org/webextension.json
+https://raw.githubusercontent.com/webhintio/hint/main/packages/hint/src/lib/config/config-schema.json
+
+# --- Android ---
+https://gitlab.com/fdroid/fdroiddata/-/raw/master/schemas/metadata.json
+
+# --- CI/CD ---
+https://json.schemastore.org/drone.json
+https://raw.githubusercontent.com/woodpecker-ci/woodpecker/main/pipeline/frontend/yaml/linter/schema/schema.json
+
+# --- Cloud ---
+https://json.schemastore.org/workflows.json
+
+# --- Docker ---
+https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json
+https://json.schemastore.org/dockerd.json
+https://gitlab.com/sbenv/veroxis/docker-seq/-/raw/HEAD/docker-seq.schema.json
+https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.schema.json
+https://json.schemastore.org/lazydocker.json
+
+# --- Docs ---
+https://json.schemastore.org/mkdocs-1.0.json
+
+# --- Git ---
+https://json.schemastore.org/github-action.json
+https://json.schemastore.org/github-issue-forms.json
+https://json.schemastore.org/github-workflow-template-properties.json
+https://gitpod.io/schemas/gitpod-schema.json
+https://json.schemastore.org/github-discussion.json
+https://json.schemastore.org/github-issue-config.json
+https://raw.githubusercontent.com/GitTools/GitVersion/main/schemas/6.0/GitVersion.configuration.json
+https://json.schemastore.org/github-funding.json
+https://json.schemastore.org/github-workflow.json
+https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/javascripts/editor/schema/ci.json
+https://raw.githubusercontent.com/jesseduffield/lazygit/master/schema/config.json
+https://json.schemastore.org/pre-commit-config.json
+
+# --- GraphQL ---
+https://www.graphql-code-generator.com/config.schema.json
+https://unpkg.com/graphql-config/config-schema.json
+https://unpkg.com/@graphql-mesh/types/esm/config-schema.json
+
+# --- JSON ---
+https://json.schemastore.org/jdt.json
+https://json.schemastore.org/feed.json
+https://json-schema.org/draft/2020-12/schema
+https://json-schema.org/draft-04/schema
+https://json-schema.org/draft-07/schema
+https://json-schema.org/draft/2019-09/schema
+https://jsonapi.org/schema
+https://json.schemastore.org/jsone.json
+https://json-stat.org/format/schema/2.0/
+https://json.schemastore.org/json-patch.json
+
+# --- Keycloak ---
+https://raw.githubusercontent.com/dahag-ag/keycloak-openapi/main/OpenApiDefinitions/keycloak-19.0.0.json
+
+# --- Kubernetes ---
+https://json.schemastore.org/grafana-dashboard-5.x.json
+https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/raw/master/pkg/agentcfg/agentcfg_schemas/ConfigurationFile.json
+https://raw.githubusercontent.com/knative/func/latest-release/schema/func_yaml-schema.json
+https://raw.githubusercontent.com/rancher/k3d/main/pkg/config/config.versions.schema.json
+https://raw.githubusercontent.com/derailed/k9s/master/plugins/schema.json
+https://json.schemastore.org/kustomization.json
+https://json.schemastore.org/rancher-fleet-0.8.json
+https://raw.githubusercontent.com/dcermak/vscode-rke-cluster-config/main/schemas/cluster.json
+https://raw.githubusercontent.com/dcermak/vscode-rke-cluster-config/main/schemas/cluster.yml.json
+
+# --- Helm ---
+https://json.schemastore.org/chart.json
+https://json.schemastore.org/chart-lock.json
+https://json.schemastore.org/helmfile.json
+https://raw.githubusercontent.com/helm-unittest/helm-unittest/v0.3.3/schema/helm-testsuite.json
+https://github.com/helmwave/helmwave/releases/latest/download/schema.json
+
+# --- Minecraft ---
+https://raw.githubusercontent.com/AxoCode/json-schema/master/minecraft/sounds.json
+https://json.schemastore.org/minecraft-lang.json
+https://json.schemastore.org/minecraft-texture-mcmeta.json
+https://json.schemastore.org/fabric.mod.json
+
+# --- Nix ---
+https://raw.githubusercontent.com/nix-community/nixd/main/nixd/docs/nixd-schema.json
+https://json.schemastore.org/lefthook.json
+
+# --- OpenAPI ---
+https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/schemas/v3.1/schema.json
+
+# --- Rust ---
+https://json.schemastore.org/cargo.json
+https://json.schemastore.org/rustfmt.json
+https://json.schemastore.org/rust-toolchain.json
+https://json.schemastore.org/rust-project.json
+
+# --- Vim ---
+https://json.schemastore.org/vim-addon-info.json
+https://raw.githubusercontent.com/tree-sitter/tree-sitter/master/cli/src/generate/grammar-schema.json
+
+# --- VSCode ---
+https://json.schemastore.org/vsix-publish.json
+https://json.schemastore.org/vsconfig.json
+https://json.schemastore.org/vs-2017.3.host.json
+https://raw.githubusercontent.com/Yash-Singh1/vscode-snippets-json-schema/main/schema.json
+https://json.schemastore.org/vs-nesting.json
+https://raw.githubusercontent.com/Yash-Singh1/vscode-snippets-json-schema/main/schema.json
+https://json.schemastore.org/vsls.json
+
+# --- Shell ---
+https://json.schemastore.org/cheatsheets.json
+https://starship.rs/config-schema.json
+https://raw.githubusercontent.com/browsh-org/browsh/master/webext/assets/browsh-schema.json
+https://raw.githubusercontent.com/DannyBen/bashly/master/schemas/strings.json
+https://raw.githubusercontent.com/DannyBen/bashly/master/schemas/settings.json
+https://json.schemastore.org/aliases.json
+https://json.schemastore.org/tmuxinator.json
+https://json.schemastore.org/tldr.json
+https://github.com/DannyBen/completely/blob/master/schemas/completely.json
+
+# --- Passwords ---
+https://raw.githubusercontent.com/DannyBen/secret_hub/master/schemas/secrethub.json
+
+# --- Webservers ---
+https://json.schemastore.org/traefik-v2.json
+https://json.schemastore.org/traefik-v2-file-provider.json
